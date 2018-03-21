@@ -1,0 +1,7 @@
+class CoffeelibController < ApplicationController
+  def index
+  end
+
+  def create
+  end
+end
